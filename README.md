@@ -1,3 +1,4 @@
+#Currency_Converter
 This Currency Converter application allows users to quickly and easily convert currencies using live exchange rates. It is built using HTML, JavaScript, CSS, APIs, and FontAwesome icons.
 
 Features:
